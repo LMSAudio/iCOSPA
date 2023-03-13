@@ -6,7 +6,7 @@ We provide audio examples for the propsed iCOSPA trained for four different targ
 
 DoA | target signal (MVDR) | COSPA-mvdr | iCOSPA-mvdr | iCOSPA-dsb | iCOSPA-mic1 | iCOSPA-dry|
 -----: |-----------|----------------|----------|----------|--------|----------|
-0°|[Mixture](https://user-images.githubusercontent.com/73232457/224759911-eb45a292-4d11-4f8c-9664-3179f1d829ca.mp4) | | | | | |
+0°| | | | | | |
 0°| | | | | | |
 0°| | | | | | |
 30°| | | | | | |
