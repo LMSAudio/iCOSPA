@@ -1,5 +1,5 @@
 # iCOSPA
-The repository provides audio examples for the soon-to-be-published paper "Exploiting spatial information with the informed complex-valued spatial autoencoder for target speaker extraction" (accepted at ICASSP 2023).
+The repository provides audio examples for the soon-to-be-published paper "Exploiting spatial information with the informed complex-valued spatial autoencoder for target speaker extraction" (accepted at ICASSP 2023). A preprint of the paper can be found [here](https://arxiv.org/abs/2210.15512).
 
 ## Audio Examples
 We provide audio examples for the propsed iCOSPA trained for four different target signals (MVDR-filtered source image, DSB-filtered source image, source image at first microphone, dry source) and the original COSPA (https://github.com/ModarHalimeh/COSPA) for the task of target speaker extraction from a mixture of speakers from four exemplary directions of arrival (DoAs) of the target speaker.
